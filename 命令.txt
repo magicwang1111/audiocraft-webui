@@ -1,0 +1,2 @@
+conda activate audiocraft
+python webui.py
